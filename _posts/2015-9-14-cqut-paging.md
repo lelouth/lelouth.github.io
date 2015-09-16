@@ -30,7 +30,7 @@ share: true
 
 
 
-
+![test](http://ww3.sinaimg.cn/large/454e8231gw1ew4hmlomj5j20iw0xkjtz.jpg)
 
 ---------------------------------------------------------
 漂亮的代码，[还可以自动高亮](http://localhost:4000/)
