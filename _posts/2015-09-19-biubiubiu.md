@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 第一个么么哒
-description: "嘛...感觉这样写东西有点紧张..."
+title: 勉强可以算做游记
+description: "大学生一日春游！！"
 tags: [CSS3]
 image:background: witewall_3.png
 comments: true
