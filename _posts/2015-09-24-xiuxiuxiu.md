@@ -28,7 +28,7 @@ share: true
 
 是不是很漂亮！！！
 
-怎么办，布偶猫也很漂亮，暹罗猫也很漂亮，哪个比较好……
+怎么办，布偶猫也很漂亮，暹罗猫也很漂亮，哪个比较好……布偶猫更贵，毛也更多可是真的漂亮的流口水啊，可是暹罗猫身形又更小，挖煤脸也很萌……
 
 ![enter image description here](http://ww1.sinaimg.cn/mw690/6bfe8f1bgw1ewe6slhm26j21o02yoe82.jpg)
 
