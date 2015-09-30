@@ -7,6 +7,7 @@ image:background: witewall_3.png
 comments: true
 share: true
 ---
+
 ##说说身边的笑点##
 *by 程序盐*
 
